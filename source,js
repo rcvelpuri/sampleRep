@@ -1,3 +1,10 @@
 var a = 1000;
 
 console.log(a);
+
+
+function loadItems() {
+
+
+    console.log('loading');
+}
